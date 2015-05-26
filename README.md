@@ -1,3 +1,2 @@
 # pythondev
-sagasgasgasgasgagas \
-asdasda sdas as dsa 
+We are gonna work on a library system.
